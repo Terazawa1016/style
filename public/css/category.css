@@ -1,0 +1,24 @@
+header {
+  position: fixed;
+  background: #fff;
+  height: 100px;
+  min-width:600px;
+  width:100%;
+  top: 0; */
+}
+
+.nav-inner {
+  /* margin:0 auto; */
+  padding-left:10%;
+  padding-top:75px;
+}
+
+.nav-inner ul li{
+  /* margin:0 auto; */
+  display:inline-block;
+  /* display: inline; */
+}
+
+.nav-inner ul li:hover {
+   opacity: 0.5;
+}
